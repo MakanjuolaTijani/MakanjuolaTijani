@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Tijani Makanjuola 👋
 
-<!--
-**MakanjuolaTijani/MakanjuolaTijani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 Biochemistry undergraduate at University of Lagos
+- 💻 Aspiring Backend Engineer
+- 🌍 Passionate about building digital tools for healthcare in Africa
 
-Here are some ideas to get you started:
+## Skills
+- Git & GitHub
+- NodeJS (in progress)
+- Typescript (in progress)
+- Backend Development (in progress)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- Backend/AI Engineering
+- Data Structures & Algorithms
+
+## Connect With Me
+- GitHub: [@MakanjuolaTijani](https://github.com/MakanjuolaTijani)
